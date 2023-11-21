@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsi-bo&label=Profile%20views&color=0e75b6&style=flat" alt="tsi-bo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsi-bo" alt="tsi-bo" /></a> </p>
+
 
 - 🔭 I’m currently working on [Building up my coding skills](https://tsi-bo.github.io/portfolio/)
 
