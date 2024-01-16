@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hey there 👋, I'm Tsi Bo</h1>
+<h1 align="center">Hello there 👋, I'm Tsi Bo</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 
 <div id="insta" align="center">
