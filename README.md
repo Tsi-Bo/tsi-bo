@@ -14,5 +14,5 @@ Visit my portfolio : https://tsi-bo.github.io/Portfolio/
 
 Visit my LinkedIn profile : https://www.linkedin.com/in/thibault--f-bedot/ 
 
-Checkout my articles: https://medium.com/@tsibo
+Read some of my articles: https://medium.com/@tsibo
  
